@@ -2,7 +2,8 @@ This class calculates the maximum output per day that the turbine can use to gen
 
 The useful volume of the reservoir in relation to the height of the water in the dam and its surface is given by the equation 2.
 Equation 2 : 	
-![Screenshot_1-300x166](https://github.com/diamontkarakat/GRecoDam/assets/72194340/d7eab477-595b-43ac-928c-f332801c80b3)
+![εικόνα](https://github.com/diamontkarakat/GRecoDam/assets/72194340/c3108277-f656-49ad-ac18-454a7c7cc32f)
+
 
 The current volume at any given time according to the continuity equation is the linear composition of the cumulative input curve, the cumulative output-loss curve and the cumulative consumption curve. Two restrictions are imposed on the above volume, the first concerns a minimum volume of Vmin corresponding to a level below which water is unusable for energy production. The second concerns a maximum volume of Vmax corresponding to a level beyond which the water through the dam overflow ends up at the receiver. The current volume for time T is given by equation 3.
 Equation 3 : 	
