@@ -10,6 +10,8 @@ Equation 3 :
 ![Screenshot_2-300x46](https://github.com/diamontkarakat/GRecoDam/assets/72194340/efc00edb-9409-48e1-bdf1-e556c95cd8a2)
  
 Evaporation is ignored in the model due to the small size of the reservoirs. The geometric model is the one shown in figure 1. Given that this type of dams are constructed perpendicular to the flow of small torrents, the above geometric model is quite close to reality and offers an easy and simple way of describing the useful volume with relatively little geometric data.
+
+
 ![Screenshot_3-300x174](https://github.com/diamontkarakat/GRecoDam/assets/72194340/f2cf198e-e631-41f5-8ffe-f42629c64edf)
 
 The function between current useful volume and change in height is calculated in Equation 4.
