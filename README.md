@@ -18,13 +18,11 @@ Equation 4 :
 ![Screenshot_4-300x32](https://github.com/diamontkarakat/GRecoDam/assets/72194340/83f04f8d-871b-4d1e-bb38-b9d0676c35e2)
 
 Equation 4 is a linear relationship between useful volume of water in the reservoir and change in water level. The water surface (As) and water height (Dh) curve in the reservoir is also useful. The calculation of the equation of the two variables is presented in equation 5-6 and figure 3
-![Screenshot_5-300x119](https://github.com/diamontkarakat/GRecoDam/assets/72194340/2f630c2d-1b15-4046-942c-ef285fdc094d)
 
-Equation 5 :![Screenshot_6-300x60](https://github.com/diamontkarakat/GRecoDam/assets/72194340/0c0cba76-1f6e-4d1c-8f8c-207bdfa7ebb5)
- 	
+![Screenshot_5-300x119](https://github.com/diamontkarakat/GRecoDam/assets/72194340/2f630c2d-1b15-4046-942c-ef285fdc094d)
+Equation 5 :![Screenshot_6-300x60](https://github.com/diamontkarakat/GRecoDam/assets/72194340/0c0cba76-1f6e-4d1c-8f8c-207bdfa7ebb5)	
 Equation 6 : ![Screenshot_7-300x61](https://github.com/diamontkarakat/GRecoDam/assets/72194340/720b9aaf-9fee-451f-b598-93577b28a65c)
 	
-
 In the literature, the current volume curve and the reservoir surface curve are usually shown in a common diagram. For this model the diagram is presented in Figure 4.
 
 Figure 4 reservoir level-storage curve
