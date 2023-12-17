@@ -29,10 +29,15 @@ Equation 6 : ![Screenshot_7-300x61](https://github.com/diamontkarakat/GRecoDam/a
 	
 In the literature, the current volume curve and the reservoir surface curve are usually shown in a common diagram. For this model the diagram is presented in Figure 4.
 
+
 Figure 4 reservoir level-storage curve
+
+
 ![Screenshot_8-300x186](https://github.com/diamontkarakat/GRecoDam/assets/72194340/9c3f6896-2b30-4bcd-980f-e9f6ddaa5c8a)
 
 The current maximum and minimum water volume are also shown in Figure 5
+
+
 ![Screenshot_9-300x139](https://github.com/diamontkarakat/GRecoDam/assets/72194340/0c9e72d4-31f6-4713-9fc3-8e2c5b47c562)
 
 Figure 5 reservoir water’s volume
